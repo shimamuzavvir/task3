@@ -1,0 +1,1 @@
+**  What is XMLHTTPRequest? & scope **
